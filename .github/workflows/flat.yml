@@ -22,7 +22,7 @@ jobs:
         with:
           deno-version: v1.x
       - name: Fetch data 
-        uses: githubocto/flat@v3
+        uses: githubocto/flat@v3.4.0
         with:
           http_url: https://api.openpodcasting.org/v1/directory
           downloaded_filename: directory.csv
