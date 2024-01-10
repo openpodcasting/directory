@@ -1,6 +1,6 @@
 Name,Feed URL,Podcast ID,Description,Issue Codes
 20 Macs for 2020,https://www.relay.fm/20macs/feed,01HCYETBRG8WJ4894C2ZHGK93B,"Jason Snell and a collection of long-time Mac watchers count down Jason's list of the 20 most notable Macs of all time, one per week. Hosted by Jason Snell.",
-Accidental Tech Podcast,https://atp.fm/rss,01HCHQSE0FM5WBAWXB1XE58W92,"Three nerds discussing tech, Apple, programming, and loosely related matters.",HttpTimeout
+Accidental Tech Podcast,https://atp.fm/rss,01HCHQSE0FM5WBAWXB1XE58W92,"Three nerds discussing tech, Apple, programming, and loosely related matters.",
 Adapt,https://www.relay.fm/adapt/feed,01HCYESZ8AVDGSV4615J1ZC1G1,"Adapt is a show all about the iPad, where two iPad-first users challenge each other to explore new ways of doing things with their favorite device. Hosted by Federico Viticci and Ryan Christoffel.",
 Analog(ue),https://www.relay.fm/analogue/feed,01HCYDN72SXYQ07ECEZDMEPRAX,"So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse.
  Hosted by Casey Liss and Myke Hurley.",
@@ -12,7 +12,7 @@ BONANZA,https://www.relay.fm/bonanza/feed,01HCYDS9DGWTM8QM7VWPVY1PVM,BONANZA has
 Canvas,https://www.relay.fm/canvas/feed,01HCYES3S5ES0GP7YWS72MV0TY,"Hosted by Federico Viticci and Fraser Speirs, Canvas is a podcast all about mobile productivity. Armed with iOS, Federico and Fraser will be walking through workflows, exploring the best apps for the iPad and iPhone and helping users solve problems. Hosted by Federico Viticci and Fraser Speirs.",
 Clockwise,https://www.relay.fm/clockwise/feed,01HCYDT52XR6EBYN5BJZT3NXCA,"Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent.",
 CMD Space,https://www.relay.fm/cmdspace/feed,01HCYERP5622DHJRXQPSRJ6HG9,CMD+SPACE was an interview show by Myke Hurley that puts a spotlight on the people behind awesome projects. It predated Inquisitive.  Hosted by Myke Hurley.,
-Command Line Heroes,https://feeds.pacific-content.com/commandlineheroes,01HDAR2ZQDMXX3755F65JPDHCQ,Stories about the people transforming technology from the command line up.,HttpTimeout
+Command Line Heroes,https://feeds.pacific-content.com/commandlineheroes,01HDAR2ZQDMXX3755F65JPDHCQ,Stories about the people transforming technology from the command line up.,
 Conduit,https://www.relay.fm/conduit/feed,01HCYDV9YXEPBP7V9YAY5DQFEC,"Conduit is providing the connection between what we should be doing and what ultimately gets done. Our hosts celebrate that they ""Can"" do it and explore the unique ways others do it as well. Hosted by Kathy Campbell and Jay Miller.",
 Connected,https://www.relay.fm/connected/feed,01HCYDVR6FC2P2X638X69ZK2FW,"Connected is a weekly panel discussion on Apple and the impact of technology on our lives. With each co-host having a unique background — and accent — Connected provides a perspective that no other show can. Hosted by Federico Viticci, Stephen Hackett, and Myke Hurley.",
 Cortex,https://www.relay.fm/cortex/feed,01HCYDWCNKSNW44NQQ7Z921KCY,"CGP Grey and Myke Hurley are both independent content creators. Each episode, they get together to discuss their working lives. Hosted by CGP Grey and Myke Hurley.",
@@ -52,7 +52,7 @@ Roboism,https://www.relay.fm/roboism/feed,01HCYE368QP9BQAFF9AXC12TQV,"Roboism is
 Robot or Not?,https://feeds.theincomparable.com/robot,01HDAR87PYC0BF7424V8K7R2T2,"Jason Snell asks John Siracusa to rule on the meaning of various words and concepts. It’s not just about robots anymore.
 
 Have a question for John? Email robot@theincomparable.com.
-",HttpTimeout
+",
 Rocket,https://www.relay.fm/rocket/feed,01HCYE3MWW9KTPA6ZHY3TRJDP3,"Countdown to excitement! Every week Christina Warren, Brianna Wu and Simone de Rochefort have accelerated geek conversation. Tech, comics, movies, games and books, no galaxy is off limits! Hosted by Christina Warren, Brianna Wu, and Simone De Rochefort.",
 Serial,https://feeds.simplecast.com/xl36XBC2,01HJSSBRMMBB6PMRMCF7GHXT1R,"Serial Productions makes narrative podcasts whose quality and innovation transformed the medium. “Serial” began in 2014 as a spinoff of the public radio show “This American Life.” In 2020, we joined the New York Times Company. Our shows have reached many millions of listeners and have won nearly every major journalism award for audio, including the first-ever Peabody Award given to a podcast.
 
